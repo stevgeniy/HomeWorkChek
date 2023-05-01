@@ -1,15 +1,15 @@
 ﻿string[] arrayA =  {"techno", "by", "programma", "123hello", "Yes"};
-int countA = CountStringLessThreeChar(arrayA);
+int countA = CountString(arrayA);
 string[] resultA =  GetResultArray(arrayA,countA);
 
 
 string[] arrayB = {"23", "Hi", "-4", "sun", "tom"};
-int countB  = CountStringLessThreeChar(arrayB);
+int countB  = CountString(arrayB);
 string[] resultB = GetResultArray(arrayB,countB);
 
 
 string[] arrayC = {"number", "lux", "chek", "Ru"};
-int countC = CountStringLessThreeChar(arrayC);
+int countC = CountString(arrayC);
 string[] resultC = GetResultArray(arrayC, countC);
 
 void PrintArray(string[] array) 
@@ -23,7 +23,7 @@ void PrintArray(string[] array)
         Console.WriteLine();
     }
 
-int CountStringLessThreeChar(string[] array)
+int CountString(string[] array)
     {
         int count = 0;
         for (int i = 0; i < array.Length; i++)
