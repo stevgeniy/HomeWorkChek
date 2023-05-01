@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GB\\HomeWorkChek\\ControlTask001\\ControlTask001.csproj": {}
+    "D:\\Работа\\GB222\\HomeWorkTema\\ControlTask001\\ControlTask001.csproj": {}
   },
   "projects": {
-    "C:\\GB\\HomeWorkChek\\ControlTask001\\ControlTask001.csproj": {
+    "D:\\Работа\\GB222\\HomeWorkTema\\ControlTask001\\ControlTask001.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GB\\HomeWorkChek\\ControlTask001\\ControlTask001.csproj",
+        "projectUniqueName": "D:\\Работа\\GB222\\HomeWorkTema\\ControlTask001\\ControlTask001.csproj",
         "projectName": "ControlTask001",
-        "projectPath": "C:\\GB\\HomeWorkChek\\ControlTask001\\ControlTask001.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\GB\\HomeWorkChek\\ControlTask001\\obj\\",
+        "projectPath": "D:\\Работа\\GB222\\HomeWorkTema\\ControlTask001\\ControlTask001.csproj",
+        "packagesPath": "E:\\Users\\Zver\\.nuget\\packages\\",
+        "outputPath": "D:\\Работа\\GB222\\HomeWorkTema\\ControlTask001\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "E:\\Users\\Zver\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "E:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
